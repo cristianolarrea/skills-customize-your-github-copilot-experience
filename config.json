@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "REST APIs with FastAPI",
+      "description": "Build a simple REST API with FastAPI using CRUD-style endpoints and input validation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-04-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
